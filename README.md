@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheFARIS-Kawaji
+- 👋 Hi, I’m @TheKhawaji
 - 👀 I’m interested in game dev and just codeing in general
 - 🌱 I’m currently learning GDscript and Godot
 - 💞️ I’m looking to collaborate on ...
